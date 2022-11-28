@@ -1,0 +1,109 @@
+* {
+  margin: 0;
+}
+
+/* .App {
+  
+} */
+
+.App-logo {
+  height: 40vmin;
+  pointer-events: none;
+}
+
+@media (prefers-reduced-motion: no-preference) {
+  .App-logo {
+    animation: App-logo-spin infinite 20s linear;
+  }
+}
+
+.App-header {
+  background-color: #282c34;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: white;
+}
+
+.App-link {
+  color: #61dafb;
+}
+
+@keyframes App-logo-spin {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(360deg);
+  }
+}
+
+
+.appbar {
+  margin-bottom: 200px;
+}
+
+#logo {
+  margin: 0 auto;
+  width: 50vw;
+  text-align: left;
+  margin-bottom: 100px;
+}
+
+.filterNav {
+  margin: 0 20px;
+}
+
+.filterbar {
+  margin-bottom: 50px;
+}
+
+#property-image {
+  width: 400px;
+  border-radius: 10px;
+}
+
+.property-container {
+  margin: 2px;
+}
+
+.property-info {
+  text-align: left;
+  width: 300px;
+}
+
+#all-properties-container {
+  width: 80vw;
+}
+
+#property-bottom {
+  width: 400px;
+}
+/* 
+.button {
+} */
+
+.navTitle {
+  margin-bottom: 0;
+  margin-right: 10px;
+}
+
+.favorites-item {
+  margin: 0;
+}
+
+.favorites {
+  width: 15vw;
+}
+
+.fav-button {
+  height: 60px;
+  width: 200px;
+}
+
+.fav-button-container{
+  width: 200px;
+}
