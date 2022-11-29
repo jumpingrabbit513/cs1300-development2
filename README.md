@@ -1,7 +1,7 @@
 # Development
 
 ### Link to Deployed Website
-`https://jumpingrabbit513.github.io/development2`
+`https://jumpingrabbit513.github.io/cs1300-development2/`
 
 ### Goal and Value of the Application
 This is a housing site for small desert creatures that might be seeking a new burrowing home. Listed in each housing
