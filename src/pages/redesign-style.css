@@ -1,0 +1,70 @@
+/* jeff's css reset from lecture 9 slides */
+
+
+*, *::before, *::after {
+    box-sizing: border-box;
+}
+
+* {
+    margin: 0;
+}
+
+.navbar {
+    margin-bottom: 150px;
+}
+
+img, picture, video, canvas, svg {
+    display: block;
+    max-width: 100%;
+}
+
+table {
+    border-collapse: collapse;
+    border-spacing: 0;
+}
+
+.section {
+    margin-bottom: 150px;
+}
+
+
+input {
+    margin-right: 10px;
+}
+
+img {
+    margin-bottom: 50px;
+}
+
+h4 {
+    margin-bottom: 20px;
+}
+
+#goal {
+    margin-bottom: 200px;
+}
+
+#interviews li {
+    margin-bottom: 10px;
+}
+
+#sarah-intro {
+    margin-bottom: 43px;
+}
+
+.list-group {
+    min-width: 40vw;
+}
+
+.prototypes {
+    width: 60vw;
+    gap: 30px;
+}
+
+#style-guide {
+    width: 80%;
+}
+/* 
+.prototypes img {
+    position: relative;
+} */

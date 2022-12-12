@@ -1,0 +1,44 @@
+* {
+    font-family: 'Poppins', sans-serif;
+}
+
+.section {
+    margin-bottom: 100px;
+}
+
+input {
+    margin-right: 10px;
+}
+
+img {
+    margin-bottom: 50px;
+}
+
+h4 {
+    margin-bottom: 20px;
+}
+
+#goal {
+    margin-bottom: 200px;
+}
+
+#interviews li {
+    margin-bottom: 10px;
+}
+
+#sarah-intro {
+    margin-bottom: 40px;
+}
+
+.list-group {
+    min-width: 40vw;
+}
+
+.prototypes {
+    width: 60vw;
+    gap: 30px;
+}
+
+#style-guide {
+    width: 80%;
+}

@@ -1,0 +1,45 @@
+/* jeff's css reset from lecture 9 slides */
+
+
+*, *::before, *::after {
+    box-sizing: border-box;
+}
+
+* {
+    margin: 0;
+}
+
+.navbar {
+    margin-bottom: 150px;
+}
+
+img, picture, video, canvas, svg {
+    display: block;
+    max-width: 100%;
+}
+
+table {
+    border-collapse: collapse;
+    border-spacing: 0;
+}
+
+.section {
+    margin-bottom: 150px;
+}
+
+
+input {
+    margin-right: 10px;
+}
+
+img {
+    margin-bottom: 50px;
+}
+
+h4 {
+    margin-bottom: 20px;
+}
+
+.prototype {
+    margin-bottom: 40px;
+}

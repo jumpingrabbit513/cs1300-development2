@@ -1,0 +1,40 @@
+{
+    "name" : "jumpingrabbit",
+    "tagline" : "connecting design, usability, and people.",
+    "about" : {
+        "para1" : "i am a senior at brown university studying computer science and music. i am interested in the intersections between art, function, and how people interpret usable items.",
+        "para2" : "i am new to user interface design, but have some background in graphic design. i am always looking for more projects to take on.",
+        "para3" : "if you are interested in working with me, please email jumpingrabbit513@gmail.com. "
+    },
+
+    "portfolio-items" : [
+        {
+            "title" : "Coca-Cola Self Serve 7000",
+            "subtitle": "User Assessment",
+            "image-thumbnail" : "https://i.imgur.com/j10A4FJ.jpg",
+            "short-description" : "A thorough investigation of the popular Coca-Cola soft drink machine and its users, including user observation, the creation of user personas, and user storyboards. ",
+            "page-link" : "./personas"
+        },
+        {
+            "title" : "NYU",
+            "subtitle": "Responsive Redesign",
+            "image-thumbnail" : "https://i.imgur.com/GFsTWcE.jpg",
+            "short-description" : "An analysis and redesign of New York University's website, including analysis of usability principles, wireframes, and hi-fi prototypes. ",
+            "page-link" : "./redesign"
+        },
+        {
+            "title" : "Lancey",
+            "subtitle": "Iterative Design",
+            "image-thumbnail" : "https://i.imgur.com/TBWG5EF.jpg",
+            "short-description" : "A collaborative blind design for a startup focused on online user testing/prototyping. Complete with multiple brainstorming sketches, a wireframe, a hi-fi mockup, and real user testing.",
+            "page-link" : "./iterative"
+        },
+        {
+            "title" : "LandDweller",
+            "subtitle": "Real-Estate Site",
+            "image-thumbnail" : "https://i.imgur.com/7rrqd85.jpg",
+            "short-description" : "A functional real-estate site for desert burrowing animals. Users may shop from a wide selection of burrow homes with various prices, bed counts, furnishings, and locations.",
+            "page-link" : "./development"
+        }
+    ]
+}
